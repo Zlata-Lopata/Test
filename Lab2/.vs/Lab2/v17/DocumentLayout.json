@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3 \u043A\u0443\u0440\u0441\\\u0422\u0435\u0441\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\2 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{106E7A2F-02FA-462B-A41B-FAD937992A9A}|Lab2\\Lab2.csproj|d:\\3 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0441\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\2 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\\lab2\\lab2\\stepdefinitions\\step definitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{106E7A2F-02FA-462B-A41B-FAD937992A9A}|Lab2\\Lab2.csproj|solutionrelative:lab2\\stepdefinitions\\step definitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106E7A2F-02FA-462B-A41B-FAD937992A9A}|Lab2\\Lab2.csproj|d:\\3 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0441\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\2 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\\lab2\\lab2\\pageobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{106E7A2F-02FA-462B-A41B-FAD937992A9A}|Lab2\\Lab2.csproj|solutionrelative:lab2\\pageobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106E7A2F-02FA-462B-A41B-FAD937992A9A}|Lab2\\Lab2.csproj|d:\\3 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0441\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\2 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\\lab2\\lab2\\features\\withdraw.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{106E7A2F-02FA-462B-A41B-FAD937992A9A}|Lab2\\Lab2.csproj|solutionrelative:lab2\\features\\withdraw.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106E7A2F-02FA-462B-A41B-FAD937992A9A}|Lab2\\Lab2.csproj|d:\\3 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0441\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\2 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\\lab2\\lab2\\implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{106E7A2F-02FA-462B-A41B-FAD937992A9A}|Lab2\\Lab2.csproj|solutionrelative:lab2\\implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImplicitUsings.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\\u0422\u0435\u0441\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\2 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\\Lab2\\Lab2\\ImplicitUsings.cs",
+              "RelativeDocumentMoniker": "Lab2\\ImplicitUsings.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\\u0422\u0435\u0441\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\2 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\\Lab2\\Lab2\\ImplicitUsings.cs",
+              "RelativeToolTip": "Lab2\\ImplicitUsings.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:17:33.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PageObject.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\\u0422\u0435\u0441\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\2 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\\Lab2\\Lab2\\PageObject.cs",
+              "RelativeDocumentMoniker": "Lab2\\PageObject.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\\u0422\u0435\u0441\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\2 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\\Lab2\\Lab2\\PageObject.cs",
+              "RelativeToolTip": "Lab2\\PageObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:22:13.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Step Definitions.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\\u0422\u0435\u0441\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\2 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\\Lab2\\Lab2\\StepDefinitions\\Step Definitions.cs",
+              "RelativeDocumentMoniker": "Lab2\\StepDefinitions\\Step Definitions.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\\u0422\u0435\u0441\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\2 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\\Lab2\\Lab2\\StepDefinitions\\Step Definitions.cs",
+              "RelativeToolTip": "Lab2\\StepDefinitions\\Step Definitions.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T23:01:22.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Withdraw.feature",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\\u0422\u0435\u0441\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\2 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\\Lab2\\Lab2\\Features\\Withdraw.feature",
+              "RelativeDocumentMoniker": "Lab2\\Features\\Withdraw.feature",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\\u0422\u0435\u0441\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\2 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\\Lab2\\Lab2\\Features\\Withdraw.feature",
+              "RelativeToolTip": "Lab2\\Features\\Withdraw.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARRSURBVEhLjZVbbBRVGMd/Z3a3s91btdu7pLRbLRFCQWwbWi0KhJho8An7UDQkYkjoAyWxxBvGC0ljUoEaifggKAkRYvCBmCBEiaBNi5ByKyhEsWivS1u7vUx39jbHh3amu0tr\u002BM/LnO/y/8985zvfETwIjheBTLgAJyARhHG7dDb2pEemQkop0m0Wap0KFY5i6lzVKNQCpUAWYACjQA\u002BG7ORn/RLdsX46wjKdAmB\u002BgQ\u002BBR/PrEbwGLAf8gD0pQgIxYAToQrKPhuD5JL\u002BFVIGHBHzyiJeMWDPwborv/yGRbOHLiW/4IRxNdtiSF1zLVLnnaASaADeAx\u002B5mbV4ddmFjLBrCZcukLnc1BZl59E0PmJkCwQpWqncJGbfpiVuUivUG0OV7AmgEckzTcwVrOVS9l7eXNpGr\u002BlmVXcGByhYOV7WhpKYXA4286s1PNs5F7MrKQHAAKAGEwswTik2SnfEwNf5KFrmLqM2potwTYDI2hYGRzGVHsA5FvIJrrvJzJarNrKPI/gYgXLZMXi55icd8Aa6HfmMyrqElNE4PncMubDhtKnt\u002B38/fWq\u002BVPgsBLKHE8QXtetQ0QIWqsCPrfdxiN8Bq/5OcWvM1MSPGueEOtl58HY/dxUhkFNWm4rN7uBcdIWEk0vgBkHRFnuHjUDtWiTzCg1sEzIhrYzc5OXCaYHSEJb4A5Z5ShvQgcRlHi2sM6sGFyJn96BXmwtyDjNlTCkDY0GnsepNtF5vZcmEnV0M3TFcKclU/Poc33Uxyk8wKyARg9ZZAsL1sC7uXNfHO0h0UZqY0BgBbSzdzrOYgh6vaWF\u002BwJt1t7fKMgBDTs8cfgKdzqmlZ/hbr8uoo9RQzFdfwObwoQsEu7LjtLu5O/0O5t4zni9bzVXWbmWqi33yZ6SJJgmVqIT7lRQA9HsWhODg/3Mm\u002B259T469kc8kmbk/eocxTws7ybVwZ6\u002BZs8Bd6pwc52X\u002BGy2PX5\u002BgHEy106P2kjIpdWUWsct4BVACn4kRiUODM59cNp9CNCA2d2wl4SjhUtZeroZs89eNGbMJGQiaIS6vCg1wOl9E6oZNy0FrHBxDsAcIAuqETMaIEPMVkKA5uTdxhMBzkr6m79Gi9LHYtwq9mEzEiyeQ6yBaTnPtm0Sbvn8DjQMD0jUbGGNSDfDdwhu7xW4xGxvhjqofvh85y5d9uJNaUNkB2IviIE9qEaUydpjkKfJq7GvgMWGmaFaEgpbTIFARydoQmYQRkMzkjR9lgWDMk9Q\u002BmJXyr9aGKdpZkLAayAVUiU6baPDeLhma0sX/8MK3xSLIjVcBEd3SYBu9PJOgFEoAPcN03fWe0gsBB9ofauBq1SmNi/hsNQBXwgk9Q7/IhjQpgL1CZFjUEfIDkCA1Ba2OTsbBAMo4XFSKNoyCfBTSgD7jAleg\u002BzkVucHE6PcPCgwkcK8gB3gOZB1wCo4MjU92cDk\u002Bmh6bjQQUUIAubLUx9/7ylWAj/AQ0Jh6r5YMmjAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-11-11T22:58:45.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
